@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello!
+## I’m Junior Python/JS Developer
+My name is Max and I am from Moscow.
+I love Python and its ideology very much. Afraid of JavaScript, but I respect its capabilities.
+My GitHub profile is still empty, I have used it for many years as a bookmark service for interesting libraries and projects. Now I am working on showing my projects here.
 
-<!--
-**artp1ay/artp1ay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my personal blog website.
+- 🌱 I’m currently learning FastApi and Vue.js
+- 💬 Ask me about data extracting and Selenium/Puppeteer/Scrapy
+- ⚡ Fun fact: My friends say I'm a bore, but I have a list of 28 reasons why I'm not.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My Stack:
+
+**Languages:** `🐍 Python` & `📜 JavaScript`
+
+**Technologies:** `Django` `Flask` `Selenium` `REST` `PostgreSQL` `Celery` `Node.js` `Electron` `Docker`
+
+
+
+📫 Also you can find me here:
+
+[Twitter](https://twitter.com/explosive_max) | [Facebook](https://www.facebook.com/explosivemax/) | [LinkedIn](https://www.linkedin.com/in/artp1ay/) | [Fiverr](https://www.fiverr.com/artp1ay)
