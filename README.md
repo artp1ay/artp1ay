@@ -1,5 +1,4 @@
-# Hello!
-## I’m Junior Python/JS Developer
+# Hello! I’m Junior Python/JS Developer
 My name is Max and I am from Moscow.
 I love Python and its ideology very much. Afraid of JavaScript, but I respect its capabilities.
 My GitHub profile is still empty, I have used it for many years as a bookmark service for interesting libraries and projects. Now I am working on showing my projects here.
