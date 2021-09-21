@@ -16,4 +16,4 @@ Kubernetes, Docker, Ansible, PostgreSQL, Django, Flask, FastAPI, CI\CD, Git, Git
 
 📫 Also you can find me here:
 
-[Twitter](https://twitter.com/explosive_max) |[LinkedIn](https://www.linkedin.com/in/artp1ay/)
+[Twitter](https://twitter.com/explosive_max) | [LinkedIn](https://www.linkedin.com/in/artp1ay/)
