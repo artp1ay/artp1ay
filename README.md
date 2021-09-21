@@ -1,23 +1,19 @@
-# Hello! I’m Python/JS Developer
-My name is Max and I am from Moscow.
-I love Python and its ideology very much. Afraid of JavaScript, but I respect its capabilities.
-My GitHub profile is still empty, I have used it for many years as a bookmark service for interesting libraries and projects. Now I am working on showing my projects here.
-
-- 🔭 I’m currently working on my personal blog website.
-- 🌱 I’m currently learning Go
-- 💬 Ask me about data extracting and Django/Selenium/Puppeteer/Scrapy
-- ⚡ Fun fact: My friends say I'm a bore, but I have a list of 28 reasons why I'm not.
+# 🖖 Hello,
+I am Max. A middle-aged human being.
+I am fascinated by technology and programming. I love GNU/Linux and its ideology. My friends call me a geek. Just kidding. I don't have any friends. Because everyone says I'm a nerd, but I'm not. I have a list of 31 reasons why I'm not. Now, no kidding: what I wrote above has no effect on my soft and hard skills or my experience. I am a professional with 10 years of work under my belt.
 
 
+***What I am doing?***
 
-### My Stack:
+..The road arises under the footsteps of the walker.
+Overcoming obstacles to become a great DevOps engineer. So far, so successful.
 
-**Languages:** `🐍 Python` & `📜 JavaScript`
 
-**Technologies:** `Django` `Flask` `Selenium` `REST` `PostgreSQL` `Celery` `Node.js` `Electron` `Docker`
+***Stack***
 
+Kubernetes, Docker, Ansible, PostgreSQL, Django, Flask, FastAPI, CI\CD, Git, Gitlab, Jenkins, Grafana, Prometheus, ELK, Zabbix, Nginx, Draw.io, Jira, Confluence, Bitbucket, Gradle, Graylog, Tomcat, Sentry, HAProxy, Bootstrap, UiKit, SemanticUI, Vue.js, Selenium
 
 
 📫 Also you can find me here:
 
-[Twitter](https://twitter.com/explosive_max) | [Facebook](https://www.facebook.com/explosivemax/) | [LinkedIn](https://www.linkedin.com/in/artp1ay/) | [Fiverr](https://www.fiverr.com/artp1ay)
+[Twitter](https://twitter.com/explosive_max) |[LinkedIn](https://www.linkedin.com/in/artp1ay/)
